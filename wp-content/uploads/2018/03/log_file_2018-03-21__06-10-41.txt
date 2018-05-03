@@ -1,0 +1,147 @@
+
+---Upload files---
+Customizer file was not uploaded. Error: File is empty. Please upload something more substantial. This error could also be caused by uploads being disabled in your php.ini or by post_max_size being defined as smaller than upload_max_filesize in php.ini.
+
+---Upload files---
+Redux file was not uploaded. Error: File is empty. Please upload something more substantial. This error could also be caused by uploads being disabled in your php.ini or by post_max_size being defined as smaller than upload_max_filesize in php.ini.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 480
+Files info:
+Site URL = http://epoxy4.lusmodigital.com
+Data file = /home/lusmodig/public_html/epoxy4/wp-content/uploads/2018/03/demo-content.xml
+Widget file = /home/lusmodig/public_html/epoxy4/wp-content/uploads/2018/03/demo-widgets-1.wie
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag classy
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag fashion
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag men
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag shoes
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag style
+[WARNING] Failed to import product_tag summer
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag wear
+[WARNING] Failed to import product_tag women
+[WARNING] Failed to import product_cat Fashion
+[WARNING] Failed to import product_cat Men
+[WARNING] Failed to import product_cat Women
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag classy
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag fashion
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag men
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag shoes
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag style
+[WARNING] Failed to import product_tag summer
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag wear
+[WARNING] Failed to import product_tag women
+[WARNING] Failed to import product_cat Fashion
+[WARNING] Failed to import product_cat Men
+[WARNING] Failed to import product_cat Women
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag classy
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag fashion
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag men
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag shoes
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag style
+[WARNING] Failed to import product_tag summer
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag wear
+[WARNING] Failed to import product_tag women
+[WARNING] Failed to import product_cat Fashion
+[WARNING] Failed to import product_cat Men
+[WARNING] Failed to import product_cat Women
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Imported
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+
+Woocommerce Sidebar : 
+
+woocommerce_product_search - No Title - Site does not support widget
+woocommerce_widget_cart - Cart - Site does not support widget
+woocommerce_price_filter - Filter by price - Site does not support widget
+woocommerce_top_rated_products - Top rated products - Site does not support widget
+woocommerce_rating_filter - Average rating - Site does not support widget
+woocommerce_layered_nav - Filter by - Site does not support widget
+woocommerce_layered_nav_filters - Active filters - Site does not support widget
+woocommerce_product_categories - Product categories - Site does not support widget
+woocommerce_products - Products - Site does not support widget
+woocommerce_product_tag_cloud - Product tags - Site does not support widget
+woocommerce_recently_viewed_products - Recently viewed products - Site does not support widget
+woocommerce_recent_reviews - Recent reviews - Site does not support widget
+
+Footer Column1 : 
+
+Text - ABOUT US - Imported
+
+Footer Column2 : 
+
+Soma: Blog Footer Widget - No Title - Imported
+
+Footer Column3 : 
+
+Navigation Menu - QUICK LINKS - Imported
+
+Footer Column4 : 
+
+Text - CONTACT US - Imported
+
+
+
+---pt-ocdi/after_import---
+
